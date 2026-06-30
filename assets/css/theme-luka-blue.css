@@ -534,3 +534,11 @@ body.theme-luka strong {
 }
 
 
+.icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  vertical-align: middle;
+}
+
+
